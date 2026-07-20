@@ -17,10 +17,15 @@
 
 ## Структура проекта
 IoT-Test/
+ |
  docker-compose.yml
+ |
  README.md
+ |
  simulator/
+     |
      main.py
+     |
      requirements.txt
      
 ## Запуск
